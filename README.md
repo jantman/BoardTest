@@ -1,7 +1,6 @@
 # BoardTest
 Testing various GitHub kanban boards
 
-* HuBoard
-* waffle.io
-* https://zube.io/
-bar
+* [HuBoard](https://huboard.com/)
+* [waffle.io](https://waffle.io/)
+* [zube.io](https://zube.io/)
